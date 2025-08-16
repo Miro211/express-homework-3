@@ -1,6 +1,9 @@
 function validatePassword(req,res,next) {
     const {password} = req.body
-    if (!password || typeof password !== 'string') {
+    if (!password) {
+        return res.status(400).json({message : "Password is required"})
+    }
+    if (typeof password !== 'string') {
         return res.status(400).json({message : "Something went wrong"})
     }
     if (password.length < 5) {

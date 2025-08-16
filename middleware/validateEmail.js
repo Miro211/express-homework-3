@@ -3,8 +3,10 @@ const path = require('path');
 
 function validateEmail(req, res, next) {
     const { email } = req.body;
-
-    if (!email || typeof email !== 'string') {
+    if (!email) {
+        return res.status(400).json({message : "Email is required"})
+    }
+    if (typeof email !== 'string') {
         return res.status(400).json({ message: "Email must be string" });
     }
 

@@ -1,6 +1,9 @@
 function validateAge(req,res,next) {
     const {age} = req.body
-    if (!age && typeof age !== 'number') {
+    if (!age) {
+        return res.status(400).json({message : "Age is required"})
+    }
+    if (typeof age !== 'number') {
         return res.status(400).json({message : "Age must be number"})
     }
     if (age <= 18 || age >= 65) {
