@@ -1,72 +1,84 @@
 [
-    {
-        "id": 1,
-        "name": "Miro",
-        "age": 29,
-        "email": "miro@example.com",
-        "password": "tP9xLz3aQw"
-    },
-    {
-        "id": 2,
-        "name": "Anna",
-        "age": 24,
-        "email": "anna@example.com",
-        "password": "Kj4wT7mPaB"
-    },
-    {
-        "id": 3,
-        "name": "David",
-        "age": 35,
-        "email": "david@example.com",
-        "password": "Xo2nQ8rTeM"
-    },
-    {
-        "id": 4,
-        "name": "Sara",
-        "age": 27,
-        "email": "sara@example.com",
-        "password": "Lp6fYz1oVc"
-    },
-    {
-        "id": 5,
-        "name": "Aram",
-        "age": 42,
-        "email": "aram@example.com",
-        "password": "Qm8kZx4tRp"
-    },
-    {
-        "id": 6,
-        "name": "Nina",
-        "age": 31,
-        "email": "nina@example.com",
-        "password": "Fr7gLm2vXy"
-    },
-    {
-        "id": 7,
-        "name": "Levon",
-        "age": 38,
-        "email": "levon@example.com",
-        "password": "Wq3sTp5yBn"
-    },
-    {
-        "id": 8,
-        "name": "Marta",
-        "age": 26,
-        "email": "marta@example.com",
-        "password": "Zx1cVo9lHp"
-    },
-    {
-        "id": 9,
-        "name": "Karen",
-        "age": 33,
-        "email": "karen@example.com",
-        "password": "Ej5vQp6oMy"
-    },
-    {
-        "id": 10,
-        "name": "Lilit",
-        "age": 28,
-        "email": "lilit@example.com",
-        "password": "Uy8nWr2bHs"
-    }
+  {
+    "id": 1,
+    "name": "Miro",
+    "age": 29,
+    "email": "miro@example.com",
+    "password": "tP9xLz3aQw"
+  },
+  {
+    "id": 2,
+    "name": "Anna",
+    "age": 24,
+    "email": "anna@example.com",
+    "password": "Kj4wT7mPaB"
+  },
+  {
+    "id": 3,
+    "name": "David",
+    "age": 35,
+    "email": "david@example.com",
+    "password": "Xo2nQ8rTeM"
+  },
+  {
+    "id": 4,
+    "name": "Sara",
+    "age": 27,
+    "email": "sara@example.com",
+    "password": "Lp6fYz1oVc"
+  },
+  {
+    "id": 5,
+    "name": "Aram",
+    "age": 42,
+    "email": "aram@example.com",
+    "password": "Qm8kZx4tRp"
+  },
+  {
+    "id": 6,
+    "name": "Nina",
+    "age": 31,
+    "email": "nina@example.com",
+    "password": "Fr7gLm2vXy"
+  },
+  {
+    "id": 7,
+    "name": "Levon",
+    "age": 38,
+    "email": "levon@example.com",
+    "password": "Wq3sTp5yBn"
+  },
+  {
+    "id": 8,
+    "name": "Marta",
+    "age": 26,
+    "email": "marta@example.com",
+    "password": "Zx1cVo9lHp"
+  },
+  {
+    "id": 9,
+    "name": "Karen",
+    "age": 33,
+    "email": "karen@example.com",
+    "password": "Ej5vQp6oMy"
+  },
+  {
+    "id": 10,
+    "name": "Lilit",
+    "age": 28,
+    "email": "lilit@example.com",
+    "password": "Uy8nWr2bHs"
+  },
+  {
+    "name": "Avet",
+    "email": "ha@.com",
+    "password": "tP9xLz3aQw@",
+    "age": 29
+  },
+  {
+    "name": "Sahak",
+    "email": "Sahak@gmail.com",
+    "password": "Sahak#hjehjfhej",
+    "age": 29
+  }
 ]

@@ -12,4 +12,4 @@ function validateName(req,res,next) {
     }
     next()
 }
-module.exports = validateName
+module.exports = {validateName}

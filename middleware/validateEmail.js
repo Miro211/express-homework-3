@@ -38,4 +38,4 @@ function validateEmail(req, res, next) {
     });
 }
 
-module.exports = validateEmail;
+module.exports = {validateEmail};

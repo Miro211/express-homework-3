@@ -11,4 +11,4 @@ function validateAge(req,res,next) {
     }
     next()
 }
-module.exports = validateAge
+module.exports = {validateAge}

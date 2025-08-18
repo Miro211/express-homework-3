@@ -28,4 +28,4 @@ function validatePassword(req,res,next) {
     }
     next()
 }
-module.exports = validatePassword
+module.exports = {validatePassword}
